@@ -1,6 +1,6 @@
 # main.py
 # Program i syfte att demonstrera GitHub
-# Genererat av Microsoft Copilot AI, kontrollerat av Nikodemus Karlsson
+# OBS! Genererat av Microsoft Copilot AI, kontrollerat av Nikodemus Karlsson
 
 print("Välj operation:")
 print("1. Addition (plus)")
